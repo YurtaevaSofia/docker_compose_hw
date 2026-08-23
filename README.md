@@ -26,3 +26,19 @@
   reply, хотя docker port по-прежнему покажет старый маппинг 80→8080.
 
   <img width="548" height="99" alt="Screenshot 2026-08-21 at 20 35 59" src="https://github.com/user-attachments/assets/e12d7b95-772b-4c66-99d1-ebc5d616db3d" />
+
+
+# Задача 4
+
+<img width="696" height="399" alt="Screenshot 2026-08-23 at 09 50 36" src="https://github.com/user-attachments/assets/897c6384-6f25-4122-9154-ea43858324ce" />
+
+# Задача 5
+
+<img width="796" height="372" alt="Screenshot 2026-08-23 at 10 23 29" src="https://github.com/user-attachments/assets/3df1236b-4034-4247-a318-8112ae3def26" />
+
+<img width="890" height="755" alt="Screenshot 2026-08-23 at 10 35 53" src="https://github.com/user-attachments/assets/d17cb7bd-9f73-48d5-85d2-3620ebda5ea4" />
+<img width="1680" height="1050" alt="Screenshot 2026-08-23 at 10 30 03" src="https://github.com/user-attachments/assets/e9bcef64-79a2-4c77-af23-1412225273b3" />
+
+<img width="902" height="469" alt="Screenshot 2026-08-23 at 10 36 03" src="https://github.com/user-attachments/assets/7021c3e0-69b8-43aa-bd64-13b31301a14b" />
+<img width="761" height="297" alt="Screenshot 2026-08-23 at 10 38 29" src="https://github.com/user-attachments/assets/1eadb632-ca1c-437f-9894-8a5367cb805d" />
+
